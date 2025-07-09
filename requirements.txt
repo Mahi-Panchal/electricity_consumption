@@ -1,5 +1,9 @@
 streamlit
+tensorflow-cpu==2.13.0
 pandas
-plotly
 numpy
-tensorflow
+pillow
+scikit-learn
+matplotlib
+seaborn
+plotly
